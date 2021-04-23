@@ -1,0 +1,23 @@
+.bgImg{
+    /* background: url("https://images.unsplash.com/photo-1505935428862-770b6f24f629?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1547&q=80"); */
+    background: linear-gradient(50deg, rgba(0, 0, 0, 0.712), rgba(0, 0, 0, 0.712)),url("https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1450&q=80");
+    background-size: fill;
+    background-repeat: no-repeat; 
+}
+
+.form-control{
+    opacity: 0.8;
+}
+
+input.ng-invalid{
+    border-left: 5px solid black;
+}
+
+textarea.ng-invalid{
+    border-left: 5px solid black;
+}
+
+button{
+    background: black;
+    border: 1px solid white;
+}

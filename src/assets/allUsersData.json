@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "fname": "Leena",
+      "lname": "Carbotkar",
+      "pass": "lee123",
+      "email": "leena@gmail.com",
+      "phno": 9876543221,
+      "address": "Chorao",
+      "id": 1
+    },
+    {
+      "fname": "Zayn",
+      "lname": "Malik",
+      "pass": "zayn123",
+      "email": "zayn@gmail.com",
+      "phno": 1234567890,
+      "address": "Bradford",
+      "id": 2
+    },
+    {
+      "fname": "Virat",
+      "lname": "Kohli",
+      "pass": "virat123",
+      "email": "virat@gmail.com",
+      "phno": 4629981690,
+      "address": "Delhi",
+      "id": 3
+    },
+    {
+      "fname": "Jennifer",
+      "lname": "Winget",
+      "pass": "jenny123",
+      "email": "jenny@gmail.com",
+      "phno": 3723535235,
+      "address": "Mumbai",
+      "id": 4
+    }
+  ]
+}

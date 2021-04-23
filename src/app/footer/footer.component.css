@@ -1,0 +1,7 @@
+.row{
+    background-color: black;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+}
